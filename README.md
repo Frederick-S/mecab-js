@@ -20,3 +20,18 @@ cd mecab-ipadic-2.7.0-x
 make
 sudo make install
 ```
+
+### Install mecab-js
+```
+npm install mecab-js -g
+```
+
+## Usage
+```
+$ mecab-js 人間は不可能を可能にできる
+```
+
+![Demo](./screenshot.png)
+
+## License
+MIT.

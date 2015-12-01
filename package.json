@@ -1,0 +1,28 @@
+{
+  "name": "mecab-js",
+  "version": "0.0.1",
+  "description": "Use MeCab in Node.js",
+  "main": "index.js",
+  "bin": {
+    "mecab-js": "./bin/mecab"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Frederick-S/mecab-js.git"
+  },
+  "keywords": [
+    "MeCab"
+  ],
+  "author": "Frederick-S",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Frederick-S/mecab-js/issues"
+  },
+  "homepage": "https://github.com/Frederick-S/mecab-js",
+  "dependencies": {
+    "cli-table": "https://github.com/katoy/cli-table/tarball/kanjiWidth"
+  }
+}

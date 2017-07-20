@@ -1,4 +1,6 @@
 # mecab-js
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Frederick-S/mecab-js.svg)](https://greenkeeper.io/)
 Use MeCab in Node.js
 
 ## Installation
